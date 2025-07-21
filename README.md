@@ -85,4 +85,4 @@ screenshot : https://github.com/Muragunde/E-commerce-sales-Analysis/blob/main/Fa
 
 ## DashBoard of E-Commerce Sales :
 url: https://github.com/Muragunde/E-commerce-sales-Analysis/blob/main/E-Commerce%20sales%20analysis.pbix
-screenshot of Dashboard : 
+screenshot of Dashboard : https://github.com/Muragunde/E-commerce-sales-Analysis/blob/main/Dashboard%20Screenshot.png
