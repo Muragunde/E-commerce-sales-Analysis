@@ -77,7 +77,10 @@ DimRegion screenshort : https://github.com/Muragunde/E-commerce-sales-Analysis/b
 Stores product metadata: Product ID, Category, Sub-Category, Product Name.
 
 Auto-incremented surrogate key: dimprodkey.
-DimProducts screenshort : 
+DimProducts screenshort : https://github.com/Muragunde/E-commerce-sales-Analysis/blob/main/Dim%20Products.png
 
+** Fact Table 
+It containing the all the fact or numerical values
+screenshot : 
 
 ## DashBoard of E-Commerce Sales :
