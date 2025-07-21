@@ -62,7 +62,7 @@ Dimdate screenshort : https://github.com/Muragunde/E-commerce-sales-Analysis/blo
 Contains customer-level details (Customer ID, Customer Name, Segment).
 
 Auto-incremented surrogate key: dimcustkey.
-Dimcustmers screenshort :
+Dimcustmers screenshort : https://github.com/Muragunde/E-commerce-sales-Analysis/blob/main/Dim%20Customers.png
 
 ** DimRegion
 
