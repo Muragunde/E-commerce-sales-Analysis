@@ -70,7 +70,7 @@ Includes City, State, Country, and Postal Code.
 
 Auto-incremented surrogate key: dimregkey.
 
-DimRegion screenshort : 
+DimRegion screenshort : https://github.com/Muragunde/E-commerce-sales-Analysis/blob/main/Dim%20Region.png
 
 ** DimProducts
 
