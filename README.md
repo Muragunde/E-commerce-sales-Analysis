@@ -49,12 +49,13 @@ CSV File : https://github.com/Muragunde/E-commerce-sales-Analysis/blob/main/Samp
 
 ## Steps Performed
 1. Dimension Tables Creation
+
 ** DimDate
 
 Contains unique combinations of Order ID, Order Date, and Ship Date.
 
 Auto-incremented surrogate key: dimdate_key.
-Dimdate screenshort : 
+Dimdate screenshort : https://github.com/Muragunde/E-commerce-sales-Analysis/blob/main/Dima%20Date.png
 
 ** DimCustomers
 
