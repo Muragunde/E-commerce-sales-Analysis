@@ -49,21 +49,21 @@ CSV File : https://github.com/Muragunde/E-commerce-sales-Analysis/blob/main/Samp
 
 ## Steps Performed
 1. Dimension Tables Creation
-DimDate
+** DimDate
 
 Contains unique combinations of Order ID, Order Date, and Ship Date.
 
 Auto-incremented surrogate key: dimdate_key.
 Dimdate screenshort : 
 
-DimCustomers
+** DimCustomers
 
 Contains customer-level details (Customer ID, Customer Name, Segment).
 
 Auto-incremented surrogate key: dimcustkey.
 Dimcustmers screenshort :
 
-DimRegion
+** DimRegion
 
 Includes City, State, Country, and Postal Code.
 
@@ -71,7 +71,7 @@ Auto-incremented surrogate key: dimregkey.
 
 DimRegion screenshort : 
 
-DimProducts
+** DimProducts
 
 Stores product metadata: Product ID, Category, Sub-Category, Product Name.
 
