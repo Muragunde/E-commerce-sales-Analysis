@@ -84,4 +84,5 @@ It containing the all the fact or numerical values
 screenshot : https://github.com/Muragunde/E-commerce-sales-Analysis/blob/main/Fact%20Table.png
 
 ## DashBoard of E-Commerce Sales :
-url: 
+url: https://github.com/Muragunde/E-commerce-sales-Analysis/blob/main/E-Commerce%20sales%20analysis.pbix
+screenshot of Dashboard : 
