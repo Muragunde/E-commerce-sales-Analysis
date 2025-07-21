@@ -45,7 +45,7 @@ This SQL project implements data modeling using a star schema approach to analyz
 
 ## Database: sales
 All queries are executed within the sales database, which houses the following components:
-
+CSV File : https://github.com/Muragunde/E-commerce-sales-Analysis/blob/main/Sample%20-%20Superstore.csv
 
 ## Steps Performed
 1. Dimension Tables Creation
