@@ -81,6 +81,7 @@ DimProducts screenshort : https://github.com/Muragunde/E-commerce-sales-Analysis
 
 ** Fact Table 
 It containing the all the fact or numerical values
-screenshot : 
+screenshot : https://github.com/Muragunde/E-commerce-sales-Analysis/blob/main/Fact%20Table.png
 
 ## DashBoard of E-Commerce Sales :
+url: 
