@@ -45,7 +45,9 @@ This SQL project implements data modeling using a star schema approach to analyz
 
 ## Database: sales
 All queries are executed within the sales database, which houses the following components:
+
 CSV File : https://github.com/Muragunde/E-commerce-sales-Analysis/blob/main/Sample%20-%20Superstore.csv
+
 
 ## Steps Performed
 1. Dimension Tables Creation
@@ -57,12 +59,14 @@ Contains unique combinations of Order ID, Order Date, and Ship Date.
 Auto-incremented surrogate key: dimdate_key.
 Dimdate screenshort : https://github.com/Muragunde/E-commerce-sales-Analysis/blob/main/Dima%20Date.png
 
+
 ** DimCustomers
 
 Contains customer-level details (Customer ID, Customer Name, Segment).
 
 Auto-incremented surrogate key: dimcustkey.
 Dimcustmers screenshort : https://github.com/Muragunde/E-commerce-sales-Analysis/blob/main/Dim%20Customers.png
+
 
 ** DimRegion
 
@@ -71,6 +75,7 @@ Includes City, State, Country, and Postal Code.
 Auto-incremented surrogate key: dimregkey.
 
 DimRegion screenshort : https://github.com/Muragunde/E-commerce-sales-Analysis/blob/main/Dim%20Region.png
+
 
 ** DimProducts
 
@@ -85,4 +90,6 @@ screenshot : https://github.com/Muragunde/E-commerce-sales-Analysis/blob/main/Fa
 
 ## DashBoard of E-Commerce Sales :
 url: https://github.com/Muragunde/E-commerce-sales-Analysis/blob/main/E-Commerce%20sales%20analysis.pbix
+
+
 screenshot of Dashboard : https://github.com/Muragunde/E-commerce-sales-Analysis/blob/main/Dashboard%20Screenshot.png
